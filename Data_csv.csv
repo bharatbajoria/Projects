@@ -1,0 +1,368 @@
+,Unnamed: 0,Date,Category A,Category B,Category C,Target (Total orders),FESTIVAL,RELIGION,COUNTRY,End Date,Medium,Promotions,Offer days,Offer,Month,Qtr,pre_offer,post_offer,Promo-tagged,Medium-tagged,pre_fest,post_fest,Fest-tagged,Religion-tagged,Week
+0,0,01/01/2020,38,57,116,211,NEW YEAR'S DAY,COMMON,INDIA,,,,0,0,1,4,0,0,,,0,0,NEW YEAR'S DAY,COMMON,week-1
+1,1,02/01/2020,38,56,131,225,No-Festival,,,,,,0,0,1,4,0,0,,,0,1,NEW YEAR'S DAY-post,COMMON-post,week-1
+2,2,03/01/2020,22,25,82,129,No-Festival,,,,,,0,0,1,4,0,0,,,0,1,NEW YEAR'S DAY-post,COMMON-post,week-1
+3,3,04/01/2020,42,113,162,317,No-Festival,,,,,,0,0,1,4,0,0,,,0,1,NEW YEAR'S DAY-post,COMMON-post,week-1
+4,4,05/01/2020,62,176,302,540,No-Festival,,,,,,0,0,1,4,0,0,,,0,1,NEW YEAR'S DAY-post,COMMON-post,week-1
+5,5,06/01/2020,31,51,126,208,No-Festival,,,,,,0,0,1,4,0,0,,,0,1,NEW YEAR'S DAY-post,COMMON-post,week-1
+6,6,07/01/2020,43,66,153,262,No-Festival,,,,,,0,0,1,4,0,0,,,1,1,NEW YEAR'S DAY-post,COMMON-post,week-1
+7,7,08/01/2020,39,86,124,249,No-Festival,,,,,,0,0,1,4,0,0,,,1,1,NEW YEAR'S DAY-post,COMMON-post,week-2
+8,8,09/01/2020,44,66,133,243,No-Festival,,,,,,0,0,1,4,0,0,,,1,0,MAKAR SANKRANTI-pre,HINDUISIM-pre,week-2
+9,9,10/01/2020,36,43,169,248,No-Festival,,,,,,0,0,1,4,0,0,,,1,0,MAKAR SANKRANTI-pre,HINDUISIM-pre,week-2
+10,10,11/01/2020,46,111,125,282,No-Festival,,,,,,0,0,1,4,0,0,,,1,0,MAKAR SANKRANTI-pre,HINDUISIM-pre,week-2
+11,11,12/01/2020,34,148,162,344,No-Festival,,,,,,0,0,1,4,0,0,,,1,0,MAKAR SANKRANTI-pre,HINDUISIM-pre,week-2
+12,12,13/01/2020,43,136,128,307,No-Festival,,,,,,0,0,1,4,0,0,,,1,0,MAKAR SANKRANTI-pre,HINDUISIM-pre,week-2
+13,13,14/01/2020,46,121,196,363,MAKAR SANKRANTI,HINDUISIM,INDIA,,,,0,0,1,4,0,0,,,0,0,MAKAR SANKRANTI,HINDUISIM,week-2
+14,14,15/01/2020,57,137,144,338,No-Festival,,,,,,0,0,1,4,0,0,,,0,1,MAKAR SANKRANTI-post,HINDUISIM-post,week-3
+15,15,16/01/2020,56,78,113,247,No-Festival,,,,,,0,0,1,4,0,0,,,0,1,MAKAR SANKRANTI-post,HINDUISIM-post,week-3
+16,16,17/01/2020,52,92,165,309,No-Festival,,,,,,0,0,1,4,0,0,,,0,1,MAKAR SANKRANTI-post,HINDUISIM-post,week-3
+17,17,18/01/2020,48,71,114,233,No-Festival,,,,,,0,0,1,4,0,0,,,0,1,MAKAR SANKRANTI-post,HINDUISIM-post,week-3
+18,18,19/01/2020,59,158,188,405,No-Festival,,,,,,0,0,1,4,0,0,,,1,1,MAKAR SANKRANTI-post,HINDUISIM-post,week-3
+19,19,20/01/2020,90,81,128,299,No-Festival,,,,,,0,0,1,4,0,0,,,1,1,MAKAR SANKRANTI-post,HINDUISIM-post,week-3
+20,20,21/01/2020,43,44,142,229,No-Festival,,,,,,0,0,1,4,1,0,Republic Celebration-pre-,TV & Newspaper-pre-,1,1,MAKAR SANKRANTI-post,HINDUISIM-post,week-3
+21,21,22/01/2020,47,72,117,236,No-Festival,,,,,,0,0,1,4,1,0,Republic Celebration-pre-,TV & Newspaper-pre-,1,0,REPUBLIC DAY-pre,GOVT-pre,week-4
+22,22,23/01/2020,32,127,138,297,No-Festival,,,,,,0,0,1,4,1,0,Republic Celebration-pre-,TV & Newspaper-pre-,1,0,REPUBLIC DAY-pre,GOVT-pre,week-4
+23,23,24/01/2020,36,80,123,239,No-Festival,,,26/01/2020,TV & Newspaper,Republic Celebration,2,1,1,4,0,0,Republic Celebration,TV & Newspaper,1,0,REPUBLIC DAY-pre,GOVT-pre,week-4
+24,24,25/01/2020,36,76,119,231,No-Festival,,,,TV & Newspaper,Republic Celebration,2,1,1,4,0,0,Republic Celebration,TV & Newspaper,1,0,REPUBLIC DAY-pre,GOVT-pre,week-4
+25,25,26/01/2020,59,139,212,410,REPUBLIC DAY,GOVT,INDIA,,TV & Newspaper,Republic Celebration,2,1,1,4,0,0,Republic Celebration,TV & Newspaper,0,0,REPUBLIC DAY,GOVT,week-4
+26,26,27/01/2020,54,76,106,236,No-Festival,,,,,,0,0,1,4,0,1,Republic Celebration-post,TV & Newspaper-post,0,1,REPUBLIC DAY-post,GOVT-post,week-4
+27,27,28/01/2020,38,60,145,243,No-Festival,,,,,,0,0,1,4,0,1,Republic Celebration-post,TV & Newspaper-post,0,1,REPUBLIC DAY-post,GOVT-post,week-4
+28,28,29/01/2020,58,236,197,491,No-Festival,,,,,,0,0,1,4,0,1,Republic Celebration-post,TV & Newspaper-post,0,1,REPUBLIC DAY-post,GOVT-post,week-5
+29,29,30/01/2020,43,89,157,289,No-Festival,,,,,,0,0,1,4,1,0,Valentine Week-pre-,TV-pre-,0,1,REPUBLIC DAY-post,GOVT-post,week-5
+30,30,31/01/2020,46,149,104,299,No-Festival,,,,,,0,0,1,4,1,0,Valentine Week-pre-,TV-pre-,0,1,REPUBLIC DAY-post,GOVT-post,week-5
+31,31,01/02/2020,46,121,158,325,No-Festival,,,,,,0,0,2,4,1,0,Valentine Week-pre-,TV-pre-,0,1,REPUBLIC DAY-post,GOVT-post,week-5
+32,32,02/02/2020,68,267,281,616,No-Festival,,,,,,0,0,2,4,1,0,Valentine Week-pre-,TV-pre-,0,1,REPUBLIC DAY-post,GOVT-post,week-5
+33,33,03/02/2020,70,154,121,345,No-Festival,,,,,,0,0,2,4,1,0,Valentine Week-pre-,TV-pre-,0,0,No-Festival,,week-5
+34,34,04/02/2020,71,101,136,308,No-Festival,,,,,,0,0,2,4,1,0,Valentine Week-pre-,TV-pre-,0,0,No-Festival,,week-5
+35,35,05/02/2020,64,109,81,254,No-Festival,,,,,,0,0,2,4,1,0,Valentine Week-pre-,TV-pre-,0,0,No-Festival,,week-6
+36,36,06/02/2020,110,131,176,417,No-Festival,,,,,,0,0,2,4,1,0,Valentine Week-pre-,TV-pre-,0,0,No-Festival,,week-6
+37,37,07/02/2020,51,125,158,334,No-Festival,,,14/02/2020,TV,Valentine Week,7,1,2,4,0,0,Valentine Week,TV,0,0,No-Festival,,week-6
+38,38,08/02/2020,47,100,159,306,No-Festival,,,,TV,Valentine Week,7,1,2,4,0,0,Valentine Week,TV,0,0,No-Festival,,week-6
+39,39,09/02/2020,118,261,152,531,No-Festival,,,,TV,Valentine Week,7,1,2,4,0,0,Valentine Week,TV,0,0,No-Festival,,week-6
+40,40,10/02/2020,77,155,183,415,No-Festival,,,,TV,Valentine Week,7,1,2,4,0,0,Valentine Week,TV,0,0,No-Festival,,week-6
+41,41,11/02/2020,46,97,125,268,No-Festival,,,,TV,Valentine Week,7,1,2,4,0,0,Valentine Week,TV,1,0,MAHARISHI DAYANAND JAYANTI-pre,HINDUISIM-pre,week-6
+42,42,12/02/2020,53,69,112,234,No-Festival,,,,TV,Valentine Week,7,1,2,4,0,0,Valentine Week,TV,1,0,MAHARISHI DAYANAND JAYANTI-pre,HINDUISIM-pre,week-7
+43,43,13/02/2020,47,78,110,235,No-Festival,,,,TV,Valentine Week,7,1,2,4,0,0,Valentine Week,TV,1,0,MAHARISHI DAYANAND JAYANTI-pre,HINDUISIM-pre,week-7
+44,44,14/02/2020,48,73,109,230,No-Festival,,,,TV,Valentine Week,7,1,2,4,0,0,Valentine Week,TV,1,0,MAHA SHIVARATRI-pre,HINDUISIM-pre,week-7
+45,45,15/02/2020,59,130,168,357,No-Festival,,,,,,0,0,2,4,0,1,Valentine Week-post,TV-post,1,0,MAHA SHIVARATRI-pre,HINDUISIM-pre,week-7
+46,46,16/02/2020,45,99,115,259,No-Festival,,,,,,0,0,2,4,1,1,Valentine Week-post,TV-post,1,0,MAHA SHIVARATRI-pre,HINDUISIM-pre,week-7
+47,47,17/02/2020,39,111,94,244,No-Festival,,,,,,0,0,2,4,1,1,Valentine Week-post,TV-post,1,0,MAHA SHIVARATRI-pre,HINDUISIM-pre,week-7
+48,48,18/02/2020,40,241,122,403,MAHARISHI DAYANAND JAYANTI,HINDUISIM,INDIA,,,,0,0,2,4,1,1,Valentine Week-post,TV-post,1,0,MAHA SHIVARATRI-pre,HINDUISIM-pre,week-7
+49,49,19/02/2020,57,88,109,254,No-Festival,,,,,,0,0,2,4,1,1,Valentine Week-post,TV-post,1,1,MAHARISHI DAYANAND JAYANTI-post,HINDUISIM-post,week-8
+50,50,20/02/2020,41,135,166,342,No-Festival,,,,,,0,0,2,4,1,1,Valentine Week-post,TV-post,1,1,MAHARISHI DAYANAND JAYANTI-post,HINDUISIM-post,week-8
+51,51,21/02/2020,34,116,119,269,MAHA SHIVARATRI,HINDUISIM,INDIA,,,,0,0,2,4,1,1,Valentine Week-post,TV-post,0,1,MAHARISHI DAYANAND JAYANTI-post,HINDUISIM-post,week-8
+52,52,22/02/2020,33,82,74,189,No-Festival,,,,,,0,0,2,4,1,1,Valentine Week-post,TV-post,0,1,MAHA SHIVARATRI-post,HINDUISIM-post,week-8
+53,53,23/02/2020,52,52,98,202,No-Festival,,,,,,0,0,2,4,1,0,Holi Celebration Offers-pre-,TV-pre-,0,1,MAHA SHIVARATRI-post,HINDUISIM-post,week-8
+54,54,24/02/2020,37,71,105,213,No-Festival,,,,,,0,0,2,4,1,0,Holi Celebration Offers-pre-,TV-pre-,0,1,MAHA SHIVARATRI-post,HINDUISIM-post,week-8
+55,55,25/02/2020,59,93,165,317,No-Festival,,,,,,0,0,2,4,1,0,Holi Celebration Offers-pre-,TV-pre-,0,1,MAHA SHIVARATRI-post,HINDUISIM-post,week-8
+56,56,26/02/2020,54,116,116,286,No-Festival,,,,,,0,0,2,4,1,0,Holi Celebration Offers-pre-,TV-pre-,0,1,MAHA SHIVARATRI-post,HINDUISIM-post,week-9
+57,57,27/02/2020,58,142,103,303,No-Festival,,,,,,0,0,2,4,1,0,Holi Celebration Offers-pre-,TV-pre-,0,1,MAHA SHIVARATRI-post,HINDUISIM-post,week-9
+58,58,28/02/2020,77,96,132,305,No-Festival,,,,,,0,0,2,4,1,0,Holi Celebration Offers-pre-,TV-pre-,0,1,MAHA SHIVARATRI-post,HINDUISIM-post,week-9
+59,59,29/02/2020,108,121,103,332,No-Festival,,,,,,0,0,2,4,1,0,Holi Celebration Offers-pre-,TV-pre-,0,0,No-Festival,,week-9
+60,60,01/03/2020,114,94,141,349,No-Festival,,,14/03/2020,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,0,0,No-Festival,,week-9
+61,61,02/03/2020,100,134,133,367,No-Festival,,,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,1,0,HOLIKA DAHANA-pre,HINDUISIM-pre,week-9
+62,62,03/03/2020,39,62,140,241,No-Festival,,,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,1,0,HOLI-pre,HINDUISIM-pre,week-9
+63,63,04/03/2020,100,144,250,494,No-Festival,,,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,1,0,HAZARAT ALI'S BIRTHDAY-pre,ISLAM-pre,week-10
+64,64,05/03/2020,98,275,342,715,No-Festival,,,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,1,0,HAZARAT ALI'S BIRTHDAY-pre,ISLAM-pre,week-10
+65,65,06/03/2020,111,78,220,409,No-Festival,,,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,1,0,HAZARAT ALI'S BIRTHDAY-pre,ISLAM-pre,week-10
+66,66,07/03/2020,125,140,192,457,No-Festival,,,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,1,0,HAZARAT ALI'S BIRTHDAY-pre,ISLAM-pre,week-10
+67,67,08/03/2020,56,169,163,388,No-Festival,,,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,1,0,HAZARAT ALI'S BIRTHDAY-pre,ISLAM-pre,week-10
+68,68,09/03/2020,47,98,206,351,HOLIKA DAHANA,HINDUISIM,INDIA,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,1,0,HAZARAT ALI'S BIRTHDAY-pre,ISLAM-pre,week-10
+69,69,10/03/2020,99,77,213,389,HOLI,HINDUISIM,INDIA,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,1,1,HOLIKA DAHANA-post,HINDUISIM-post,week-10
+70,70,10/03/2020,99,77,213,389,HAZARAT ALI'S BIRTHDAY,ISLAM,INDIA,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,0,1,HOLI-post,HINDUISIM-post,week-10
+71,71,11/03/2020,142,211,157,510,No-Festival,,,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,0,1,HAZARAT ALI'S BIRTHDAY-post,ISLAM-post,week-11
+72,72,12/03/2020,93,170,217,480,No-Festival,,,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,0,1,HAZARAT ALI'S BIRTHDAY-post,ISLAM-post,week-11
+73,73,13/03/2020,120,233,223,576,No-Festival,,,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,0,1,HAZARAT ALI'S BIRTHDAY-post,ISLAM-post,week-11
+74,74,14/03/2020,71,150,198,419,No-Festival,,,,TV,Holi Celebration Offers,13,1,3,4,0,0,Holi Celebration Offers,TV,0,1,HAZARAT ALI'S BIRTHDAY-post,ISLAM-post,week-11
+75,75,15/03/2020,156,207,215,578,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,0,1,HAZARAT ALI'S BIRTHDAY-post,ISLAM-post,week-11
+76,76,16/03/2020,99,148,116,363,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,0,1,HAZARAT ALI'S BIRTHDAY-post,ISLAM-post,week-11
+77,77,17/03/2020,148,131,208,487,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,0,1,HAZARAT ALI'S BIRTHDAY-post,ISLAM-post,week-11
+78,78,18/03/2020,81,81,180,342,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,0,0,No-Festival,,week-12
+79,79,19/03/2020,81,235,191,507,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,0,0,No-Festival,,week-12
+80,80,20/03/2020,140,152,150,442,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,0,0,No-Festival,,week-12
+81,81,21/03/2020,63,54,151,268,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,0,0,No-Festival,,week-12
+82,82,22/03/2020,102,124,161,387,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,0,0,No-Festival,,week-12
+83,83,23/03/2020,65,195,234,494,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,0,0,No-Festival,,week-12
+84,84,24/03/2020,77,180,219,476,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,0,0,No-Festival,,week-12
+85,85,25/03/2020,54,154,178,386,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,0,0,No-Festival,,week-13
+86,86,26/03/2020,157,185,294,636,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,1,0,RAMA NAVAMI-pre,HINDUISIM-pre,week-13
+87,87,27/03/2020,125,128,172,425,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,1,0,RAMA NAVAMI-pre,HINDUISIM-pre,week-13
+88,88,28/03/2020,128,141,228,497,No-Festival,,,,,,0,0,3,4,0,1,Holi Celebration Offers-post,TV-post,1,0,RAMA NAVAMI-pre,HINDUISIM-pre,week-13
+89,89,29/03/2020,148,290,213,651,No-Festival,,,,,,0,0,3,4,0,0,,,1,0,RAMA NAVAMI-pre,HINDUISIM-pre,week-13
+90,90,30/03/2020,58,179,231,468,No-Festival,,,,,,0,0,3,4,0,0,,,1,0,MAHAVIR JAYANTI-pre,HINDUISIM-pre,week-13
+91,91,31/03/2020,133,150,135,418,No-Festival,,,,,,0,0,3,4,0,0,,,1,0,MAHAVIR JAYANTI-pre,HINDUISIM-pre,week-13
+92,92,01/04/2020,74,196,225,495,No-Festival,,,,,,0,0,4,1,0,0,,,1,0,MAHAVIR JAYANTI-pre,HINDUISIM-pre,week-14
+93,93,02/04/2020,161,359,376,896,RAMA NAVAMI,HINDUISIM,INDIA,,,,0,0,4,1,0,0,,,1,0,MAHAVIR JAYANTI-pre,HINDUISIM-pre,week-14
+94,94,03/04/2020,81,187,158,426,No-Festival,,,,,,0,0,4,1,0,0,,,1,1,RAMA NAVAMI-post,HINDUISIM-post,week-14
+95,95,04/04/2020,86,108,196,390,No-Festival,,,,,,0,0,4,1,0,0,,,1,1,RAMA NAVAMI-post,HINDUISIM-post,week-14
+96,96,05/04/2020,78,130,131,339,No-Festival,,,,,,0,0,4,1,0,0,,,1,1,RAMA NAVAMI-post,HINDUISIM-post,week-14
+97,97,06/04/2020,143,158,233,534,MAHAVIR JAYANTI,HINDUISIM,INDIA,,,,0,0,4,1,0,0,,,1,1,RAMA NAVAMI-post,HINDUISIM-post,week-14
+98,98,07/04/2020,147,211,172,530,No-Festival,,,,,,0,0,4,1,0,0,,,1,1,MAHAVIR JAYANTI-post,HINDUISIM-post,week-14
+99,99,08/04/2020,100,172,257,529,No-Festival,,,,,,0,0,4,1,0,0,,,1,1,MAHAVIR JAYANTI-post,HINDUISIM-post,week-15
+100,100,09/04/2020,135,330,162,627,No-Festival,,,,,,0,0,4,1,0,0,,,1,1,MAHAVIR JAYANTI-post,HINDUISIM-post,week-15
+101,101,10/04/2020,155,202,203,560,GOOD FRIDAY,CHRISTIAN,INDIA,,,,0,0,4,1,0,0,,,1,1,MAHAVIR JAYANTI-post,HINDUISIM-post,week-15
+102,102,11/04/2020,74,126,222,422,No-Festival,,,,,,0,0,4,1,0,0,,,1,1,GOOD FRIDAY-post,CHRISTIAN-post,week-15
+103,103,12/04/2020,67,90,195,352,No-Festival,,,,,,0,0,4,1,0,0,,,1,1,GOOD FRIDAY-post,CHRISTIAN-post,week-15
+104,104,13/04/2020,93,88,132,313,MESADI.VAISAKHADI,NAN,INDIA,,,,0,0,4,1,0,0,,,1,1,GOOD FRIDAY-post,CHRISTIAN-post,week-15
+105,105,14/04/2020,94,79,175,348,AMBEDKAR JAYANTI,HINDUISIM,INDIA,,,,0,0,4,1,0,0,,,0,1,MESADI.VAISAKHADI-post,NAN-post,week-15
+106,106,15/04/2020,119,221,207,547,No-Festival,,,,,,0,0,4,1,0,0,,,0,1,AMBEDKAR JAYANTI-post,HINDUISIM-post,week-16
+107,107,16/04/2020,47,159,158,364,No-Festival,,,,,,0,0,4,1,0,0,,,0,1,AMBEDKAR JAYANTI-post,HINDUISIM-post,week-16
+108,108,17/04/2020,41,186,161,388,No-Festival,,,,,,0,0,4,1,0,0,,,0,1,AMBEDKAR JAYANTI-post,HINDUISIM-post,week-16
+109,109,18/04/2020,99,289,205,593,No-Festival,,,,,,0,0,4,1,0,0,,,0,1,AMBEDKAR JAYANTI-post,HINDUISIM-post,week-16
+110,110,19/04/2020,60,155,183,398,No-Festival,,,,,,0,0,4,1,0,0,,,0,1,AMBEDKAR JAYANTI-post,HINDUISIM-post,week-16
+111,111,20/04/2020,104,150,212,466,No-Festival,,,,,,0,0,4,1,0,0,,,0,1,AMBEDKAR JAYANTI-post,HINDUISIM-post,week-16
+112,112,21/04/2020,128,198,189,515,No-Festival,,,,,,0,0,4,1,0,0,,,0,1,AMBEDKAR JAYANTI-post,HINDUISIM-post,week-16
+113,113,22/04/2020,62,98,119,279,No-Festival,,,,,,0,0,4,1,0,0,,,0,0,No-Festival,,week-17
+114,114,23/04/2020,89,142,122,353,No-Festival,,,,,,0,0,4,1,0,0,,,0,0,No-Festival,,week-17
+115,115,24/04/2020,38,150,161,349,No-Festival,,,,,,0,0,4,1,0,0,,,0,0,No-Festival,,week-17
+116,116,25/04/2020,72,129,230,431,No-Festival,,,,,,0,0,4,1,0,0,,,0,0,No-Festival,,week-17
+117,117,26/04/2020,151,206,155,512,No-Festival,,,,,,0,0,4,1,0,0,,,0,0,No-Festival,,week-17
+118,118,27/04/2020,87,176,158,421,No-Festival,,,,,,0,0,4,1,0,0,,,0,0,No-Festival,,week-17
+119,119,28/04/2020,124,122,136,382,No-Festival,,,,,,0,0,4,1,0,0,,,0,0,No-Festival,,week-17
+120,120,29/04/2020,111,159,128,398,No-Festival,,,,,,0,0,4,1,0,0,,,0,0,No-Festival,,week-18
+121,121,30/04/2020,105,61,190,356,No-Festival,,,,,,0,0,4,1,0,0,,,0,0,No-Festival,,week-18
+122,122,01/05/2020,71,89,226,386,No-Festival,,,,,,0,0,5,1,0,0,,,0,0,No-Festival,,week-18
+123,123,02/05/2020,57,90,178,325,No-Festival,,,,,,0,0,5,1,0,0,,,0,0,No-Festival,,week-18
+124,124,03/05/2020,49,152,185,386,No-Festival,,,,,,0,0,5,1,0,0,,,1,0,MOTHER'S DAY-pre,HINDUISIM-pre,week-18
+125,125,04/05/2020,101,219,354,674,No-Festival,,,,,,0,0,5,1,1,0,BOGO Offer-pre-,TV-pre-,1,0,MOTHER'S DAY-pre,HINDUISIM-pre,week-18
+126,126,05/05/2020,74,77,157,308,No-Festival,,,,,,0,0,5,1,1,0,BOGO Offer-pre-,TV-pre-,1,0,MOTHER'S DAY-pre,HINDUISIM-pre,week-18
+127,127,06/05/2020,139,68,241,448,No-Festival,,,,,,0,0,5,1,1,0,BOGO Offer-pre-,TV-pre-,1,0,MOTHER'S DAY-pre,HINDUISIM-pre,week-19
+128,128,07/05/2020,54,166,177,397,No-Festival,,,,,,0,0,5,1,1,0,BOGO Offer-pre-,TV-pre-,1,0,MOTHER'S DAY-pre,HINDUISIM-pre,week-19
+129,129,08/05/2020,65,74,225,364,No-Festival,,,,,,0,0,5,1,1,0,BOGO Offer-pre-,TV-pre-,1,0,MOTHER'S DAY-pre,HINDUISIM-pre,week-19
+130,130,09/05/2020,134,102,219,455,No-Festival,,,,,,0,0,5,1,1,0,BOGO Offer-pre-,TV-pre-,1,0,MOTHER'S DAY-pre,HINDUISIM-pre,week-19
+131,131,10/05/2020,139,175,205,519,MOTHER'S DAY,HINDUISIM,INDIA,15/05/2020,TV,BOGO Offer,5,1,5,1,0,0,BOGO Offer,TV,0,0,MOTHER'S DAY,HINDUISIM,week-19
+132,132,11/05/2020,77,199,218,494,No-Festival,,,,TV,BOGO Offer,5,1,5,1,0,0,BOGO Offer,TV,0,1,MOTHER'S DAY-post,HINDUISIM-post,week-19
+133,133,12/05/2020,121,170,193,484,No-Festival,,,,TV,BOGO Offer,5,1,5,1,0,0,BOGO Offer,TV,0,1,MOTHER'S DAY-post,HINDUISIM-post,week-19
+134,134,13/05/2020,111,199,221,531,No-Festival,,,,TV,BOGO Offer,5,1,5,1,0,0,BOGO Offer,TV,0,1,MOTHER'S DAY-post,HINDUISIM-post,week-20
+135,135,14/05/2020,151,168,205,524,No-Festival,,,,TV,BOGO Offer,5,1,5,1,0,0,BOGO Offer,TV,0,1,MOTHER'S DAY-post,HINDUISIM-post,week-20
+136,136,15/05/2020,136,171,174,481,No-Festival,,,,TV,BOGO Offer,5,1,5,1,0,0,BOGO Offer,TV,1,1,MOTHER'S DAY-post,HINDUISIM-post,week-20
+137,137,16/05/2020,54,177,180,411,No-Festival,,,,,,0,0,5,1,0,1,BOGO Offer-post,TV-post,1,1,MOTHER'S DAY-post,HINDUISIM-post,week-20
+138,138,17/05/2020,147,131,131,409,No-Festival,,,,,,0,0,5,1,0,1,BOGO Offer-post,TV-post,1,1,MOTHER'S DAY-post,HINDUISIM-post,week-20
+139,139,18/05/2020,70,257,199,526,No-Festival,,,,,,0,0,5,1,0,1,BOGO Offer-post,TV-post,1,0,RAMZAN ID-pre,ISLAM-pre,week-20
+140,140,19/05/2020,190,100,144,434,No-Festival,,,,,,0,0,5,1,0,1,BOGO Offer-post,TV-post,1,0,RAMZAN ID-pre,ISLAM-pre,week-20
+141,141,20/05/2020,94,140,155,389,No-Festival,,,,,,0,0,5,1,0,1,BOGO Offer-post,TV-post,1,0,RAMZAN ID-pre,ISLAM-pre,week-21
+142,142,21/05/2020,75,142,184,401,No-Festival,,,,,,0,0,5,1,0,1,BOGO Offer-post,TV-post,1,0,RAMZAN ID-pre,ISLAM-pre,week-21
+143,143,22/05/2020,52,169,233,454,JAMAT UL-VIDA,ISLAM,INDIA,,,,0,0,5,1,0,0,,,1,0,RAMZAN ID-pre,ISLAM-pre,week-21
+144,144,23/05/2020,90,159,215,464,No-Festival,,,,,,0,0,5,1,0,0,,,1,1,JAMAT UL-VIDA-post,ISLAM-post,week-21
+145,145,24/05/2020,47,131,175,353,No-Festival,,,,,,0,0,5,1,0,0,,,1,1,JAMAT UL-VIDA-post,ISLAM-post,week-21
+146,146,25/05/2020,104,233,288,625,RAMZAN ID,ISLAM,INDIA,,,,0,0,5,1,0,0,,,0,1,JAMAT UL-VIDA-post,ISLAM-post,week-21
+147,147,26/05/2020,61,85,123,269,No-Festival,,,,,,0,0,5,1,0,0,,,0,1,RAMZAN ID-post,ISLAM-post,week-21
+148,148,27/05/2020,132,100,195,427,No-Festival,,,,,,0,0,5,1,0,0,,,0,1,RAMZAN ID-post,ISLAM-post,week-22
+149,149,28/05/2020,94,274,233,601,No-Festival,,,,,,0,0,5,1,0,0,,,0,1,RAMZAN ID-post,ISLAM-post,week-22
+150,150,29/05/2020,49,170,241,460,No-Festival,,,,,,0,0,5,1,0,0,,,0,1,RAMZAN ID-post,ISLAM-post,week-22
+151,151,30/05/2020,124,150,112,386,No-Festival,,,,,,0,0,5,1,0,0,,,0,1,RAMZAN ID-post,ISLAM-post,week-22
+152,152,31/05/2020,92,190,255,537,No-Festival,,,,,,0,0,5,1,0,0,,,0,1,RAMZAN ID-post,ISLAM-post,week-22
+153,153,01/06/2020,75,336,294,705,No-Festival,,,,,,0,0,6,1,0,0,,,0,1,RAMZAN ID-post,ISLAM-post,week-22
+154,154,02/06/2020,117,175,122,414,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-22
+155,155,03/06/2020,117,168,199,484,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-23
+156,156,04/06/2020,162,161,122,445,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-23
+157,157,05/06/2020,152,220,271,643,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-23
+158,158,06/06/2020,81,137,237,455,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-23
+159,159,07/06/2020,113,178,169,460,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-23
+160,160,08/06/2020,120,310,210,640,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-23
+161,161,09/06/2020,86,199,191,476,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-23
+162,162,10/06/2020,60,163,180,403,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-24
+163,163,11/06/2020,119,166,152,437,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-24
+164,164,12/06/2020,52,141,163,356,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-24
+165,165,13/06/2020,76,113,158,347,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-24
+166,166,14/06/2020,81,168,219,468,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-24
+167,167,15/06/2020,101,100,132,333,No-Festival,,,,,,0,0,6,1,0,0,,,0,0,No-Festival,,week-24
+168,168,16/06/2020,132,174,166,472,No-Festival,,,,,,0,0,6,1,0,0,,,1,0,RATH YATRA-pre,HINDUISIM-pre,week-24
+169,169,17/06/2020,120,264,175,559,No-Festival,,,,,,0,0,6,1,0,0,,,1,0,RATH YATRA-pre,HINDUISIM-pre,week-25
+170,170,18/06/2020,102,169,157,428,No-Festival,,,,,,0,0,6,1,0,0,,,1,0,RATH YATRA-pre,HINDUISIM-pre,week-25
+171,171,19/06/2020,138,158,246,542,No-Festival,,,,,,0,0,6,1,0,0,,,1,0,RATH YATRA-pre,HINDUISIM-pre,week-25
+172,172,20/06/2020,52,200,203,455,No-Festival,,,,,,0,0,6,1,0,0,,,1,0,RATH YATRA-pre,HINDUISIM-pre,week-25
+173,173,21/06/2020,54,142,164,360,No-Festival,,,,,,0,0,6,1,0,0,,,1,0,RATH YATRA-pre,HINDUISIM-pre,week-25
+174,174,22/06/2020,132,114,116,362,No-Festival,,,,,,0,0,6,1,0,0,,,1,0,RATH YATRA-pre,HINDUISIM-pre,week-25
+175,175,23/06/2020,60,91,197,348,RATH YATRA,HINDUISIM,INDIA,,,,0,0,6,1,0,0,,,0,0,RATH YATRA,HINDUISIM,week-25
+176,176,24/06/2020,77,139,184,400,No-Festival,,,,,,0,0,6,1,0,0,,,0,1,RATH YATRA-post,HINDUISIM-post,week-26
+177,177,25/06/2020,87,207,183,477,No-Festival,,,,,,0,0,6,1,0,0,,,0,1,RATH YATRA-post,HINDUISIM-post,week-26
+178,178,26/06/2020,147,214,167,528,No-Festival,,,,,,0,0,6,1,0,0,,,0,1,RATH YATRA-post,HINDUISIM-post,week-26
+179,179,27/06/2020,159,106,167,432,No-Festival,,,,,,0,0,6,1,0,0,,,0,1,RATH YATRA-post,HINDUISIM-post,week-26
+180,180,28/06/2020,110,145,141,396,No-Festival,,,,,,0,0,6,1,0,0,,,1,1,RATH YATRA-post,HINDUISIM-post,week-26
+181,181,29/06/2020,65,145,180,390,No-Festival,,,,,,0,0,6,1,0,0,,,1,1,RATH YATRA-post,HINDUISIM-post,week-26
+182,182,30/06/2020,102,112,165,379,No-Festival,,,,,,0,0,6,1,0,0,,,1,1,RATH YATRA-post,HINDUISIM-post,week-26
+183,183,01/07/2020,103,89,106,298,No-Festival,,,,,,0,0,7,2,0,0,,,1,0,GURU PURNIMA-pre,HINDUISIM-pre,week-27
+184,184,02/07/2020,95,172,214,481,No-Festival,,,,,,0,0,7,2,0,0,,,1,0,GURU PURNIMA-pre,HINDUISIM-pre,week-27
+185,185,03/07/2020,129,223,329,681,No-Festival,,,,,,0,0,7,2,0,0,,,1,0,GURU PURNIMA-pre,HINDUISIM-pre,week-27
+186,186,04/07/2020,39,95,204,338,No-Festival,,,,,,0,0,7,2,0,0,,,1,0,GURU PURNIMA-pre,HINDUISIM-pre,week-27
+187,187,05/07/2020,94,73,161,328,GURU PURNIMA,HINDUISIM,INDIA,,,,0,0,7,2,0,0,,,0,0,GURU PURNIMA,HINDUISIM,week-27
+188,188,06/07/2020,61,117,161,339,No-Festival,,,,,,0,0,7,2,0,0,,,0,1,GURU PURNIMA-post,HINDUISIM-post,week-27
+189,189,07/07/2020,73,155,154,382,No-Festival,,,,,,0,0,7,2,0,0,,,0,1,GURU PURNIMA-post,HINDUISIM-post,week-27
+190,190,08/07/2020,108,109,204,421,No-Festival,,,,,,0,0,7,2,0,0,,,0,1,GURU PURNIMA-post,HINDUISIM-post,week-28
+191,191,09/07/2020,57,154,220,431,No-Festival,,,,,,0,0,7,2,0,0,,,0,1,GURU PURNIMA-post,HINDUISIM-post,week-28
+192,192,10/07/2020,41,193,235,469,No-Festival,,,,,,0,0,7,2,0,0,,,0,1,GURU PURNIMA-post,HINDUISIM-post,week-28
+193,193,11/07/2020,82,207,138,427,No-Festival,,,,,,0,0,7,2,0,0,,,0,1,GURU PURNIMA-post,HINDUISIM-post,week-28
+194,194,12/07/2020,76,151,266,493,No-Festival,,,,,,0,0,7,2,0,0,,,0,1,GURU PURNIMA-post,HINDUISIM-post,week-28
+195,195,13/07/2020,76,190,158,424,No-Festival,,,,,,0,0,7,2,0,0,,,0,0,No-Festival,,week-28
+196,196,14/07/2020,64,136,134,334,No-Festival,,,,,,0,0,7,2,0,0,,,0,0,No-Festival,,week-28
+197,197,15/07/2020,90,183,194,467,No-Festival,,,,,,0,0,7,2,0,0,,,0,0,No-Festival,,week-29
+198,198,16/07/2020,99,129,141,369,No-Festival,,,,,,0,0,7,2,0,0,,,0,0,No-Festival,,week-29
+199,199,17/07/2020,73,181,274,528,No-Festival,,,,,,0,0,7,2,0,0,,,0,0,No-Festival,,week-29
+200,200,18/07/2020,112,153,164,429,No-Festival,,,,,,0,0,7,2,0,0,,,0,0,No-Festival,,week-29
+201,201,19/07/2020,62,122,196,380,No-Festival,,,,,,0,0,7,2,0,0,,,0,0,No-Festival,,week-29
+202,202,20/07/2020,50,77,174,301,No-Festival,,,,,,0,0,7,2,0,0,,,0,0,No-Festival,,week-29
+203,203,21/07/2020,64,159,161,384,No-Festival,,,,,,0,0,7,2,0,0,,,0,0,No-Festival,,week-29
+204,204,22/07/2020,124,163,151,438,No-Festival,,,,,,0,0,7,2,0,0,,,0,0,No-Festival,,week-30
+205,205,23/07/2020,115,112,179,406,No-Festival,,,,,,0,0,7,2,0,0,,,0,0,No-Festival,,week-30
+206,206,24/07/2020,132,201,279,612,No-Festival,,,,,,0,0,7,2,1,0,Eid Celebration Offers-pre-,TV-pre-,0,0,No-Festival,,week-30
+207,207,25/07/2020,64,157,161,382,No-Festival,,,,,,0,0,7,2,1,0,Eid Celebration Offers-pre-,TV-pre-,1,0,BAKRID-pre,ISLAM-pre,week-30
+208,208,26/07/2020,85,123,168,376,No-Festival,,,,,,0,0,7,2,1,0,Eid Celebration Offers-pre-,TV-pre-,1,0,BAKRID-pre,ISLAM-pre,week-30
+209,209,27/07/2020,84,336,233,653,No-Festival,,,,,,0,0,7,2,1,0,Eid Celebration Offers-pre-,TV-pre-,1,0,RAKSHA BANDHAN (RAKHI)-pre,HINDUISIM-pre,week-30
+210,210,28/07/2020,117,114,161,392,No-Festival,,,31/07/2020,TV,Eid Celebration Offers,3,1,7,2,0,0,Eid Celebration Offers,TV,1,0,RAKSHA BANDHAN (RAKHI)-pre,HINDUISIM-pre,week-30
+211,211,29/07/2020,50,193,176,419,No-Festival,,,,TV,Eid Celebration Offers,3,1,7,2,0,0,Eid Celebration Offers,TV,1,0,RAKSHA BANDHAN (RAKHI)-pre,HINDUISIM-pre,week-31
+212,212,30/07/2020,93,132,167,392,No-Festival,,,,TV,Eid Celebration Offers,3,1,7,2,0,0,Eid Celebration Offers,TV,1,0,RAKSHA BANDHAN (RAKHI)-pre,HINDUISIM-pre,week-31
+213,213,31/07/2020,130,278,307,715,No-Festival,,,,TV,Eid Celebration Offers,3,1,7,2,0,0,Eid Celebration Offers,TV,1,0,RAKSHA BANDHAN (RAKHI)-pre,HINDUISIM-pre,week-31
+214,214,01/08/2020,162,162,161,485,BAKRID,ISLAM,INDIA,,,,0,0,8,2,0,1,Eid Celebration Offers-post,TV-post,1,0,RAKSHA BANDHAN (RAKHI)-pre,HINDUISIM-pre,week-31
+215,215,02/08/2020,91,110,170,371,No-Festival,,,,,,0,0,8,2,0,1,Eid Celebration Offers-post,TV-post,1,1,BAKRID-post,ISLAM-post,week-31
+216,216,03/08/2020,136,123,97,356,RAKSHA BANDHAN (RAKHI),HINDUISIM,INDIA,,,,0,0,8,2,0,1,Eid Celebration Offers-post,TV-post,0,1,BAKRID-post,ISLAM-post,week-31
+217,217,04/08/2020,122,144,205,471,No-Festival,,,,,,0,0,8,2,0,1,Eid Celebration Offers-post,TV-post,1,1,RAKSHA BANDHAN (RAKHI)-post,HINDUISIM-post,week-31
+218,218,05/08/2020,138,162,228,528,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,RAKSHA BANDHAN (RAKHI)-post,HINDUISIM-post,week-32
+219,219,06/08/2020,55,119,171,345,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,RAKSHA BANDHAN (RAKHI)-post,HINDUISIM-post,week-32
+220,220,07/08/2020,192,343,200,735,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,RAKSHA BANDHAN (RAKHI)-post,HINDUISIM-post,week-32
+221,221,08/08/2020,140,210,237,587,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,RAKSHA BANDHAN (RAKHI)-post,HINDUISIM-post,week-32
+222,222,09/08/2020,64,169,136,369,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,RAKSHA BANDHAN (RAKHI)-post,HINDUISIM-post,week-32
+223,223,10/08/2020,63,161,155,379,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,RAKSHA BANDHAN (RAKHI)-post,HINDUISIM-post,week-32
+224,224,11/08/2020,69,128,180,377,JANMASHTAMI,HINDUISIM,INDIA,,,,0,0,8,2,0,0,,,1,0,INDEPENDENCE DAY-pre,GOVT-pre,week-32
+225,225,12/08/2020,61,129,156,346,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,JANMASHTAMI-post,HINDUISIM-post,week-33
+226,226,13/08/2020,143,191,267,601,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,JANMASHTAMI-post,HINDUISIM-post,week-33
+227,227,14/08/2020,50,114,176,340,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,JANMASHTAMI-post,HINDUISIM-post,week-33
+228,228,15/08/2020,95,179,137,411,INDEPENDENCE DAY,GOVT,INDIA,,,,0,0,8,2,0,0,,,1,1,JANMASHTAMI-post,HINDUISIM-post,week-33
+229,229,16/08/2020,111,283,164,558,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,INDEPENDENCE DAY-post,GOVT-post,week-33
+230,230,17/08/2020,66,168,191,425,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,INDEPENDENCE DAY-post,GOVT-post,week-33
+231,231,18/08/2020,82,197,257,536,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,INDEPENDENCE DAY-post,GOVT-post,week-33
+232,232,19/08/2020,107,132,218,457,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,INDEPENDENCE DAY-post,GOVT-post,week-34
+233,233,20/08/2020,126,140,88,354,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,INDEPENDENCE DAY-post,GOVT-post,week-34
+234,234,21/08/2020,88,144,175,407,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,INDEPENDENCE DAY-post,GOVT-post,week-34
+235,235,22/08/2020,117,98,195,410,GANESH CHATURTHI,HINDUISIM,INDIA,,,,0,0,8,2,0,0,,,0,1,INDEPENDENCE DAY-post,GOVT-post,week-34
+236,236,23/08/2020,87,164,179,430,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,GANESH CHATURTHI-post,HINDUISIM-post,week-34
+237,237,24/08/2020,77,170,183,430,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,GANESH CHATURTHI-post,HINDUISIM-post,week-34
+238,238,25/08/2020,100,233,129,462,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,GANESH CHATURTHI-post,HINDUISIM-post,week-34
+239,239,26/08/2020,113,127,227,467,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,GANESH CHATURTHI-post,HINDUISIM-post,week-35
+240,240,27/08/2020,154,219,137,510,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,GANESH CHATURTHI-post,HINDUISIM-post,week-35
+241,241,28/08/2020,29,47,113,189,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,GANESH CHATURTHI-post,HINDUISIM-post,week-35
+242,242,29/08/2020,30,53,121,204,No-Festival,,,,,,0,0,8,2,0,0,,,1,1,GANESH CHATURTHI-post,HINDUISIM-post,week-35
+243,243,30/08/2020,15,21,75,111,MUHARRAM.ASHURA,ISLAM,INDIA,,,,0,0,8,2,0,0,,,0,0,MUHARRAM.ASHURA,ISLAM,week-35
+244,244,31/08/2020,34,108,153,295,No-Festival,,,,,,0,0,8,2,0,0,,,0,1,MUHARRAM.ASHURA-post,ISLAM-post,week-35
+245,245,01/09/2020,53,169,301,523,No-Festival,,,,,,0,0,9,2,0,0,,,0,1,MUHARRAM.ASHURA-post,ISLAM-post,week-35
+246,246,02/09/2020,26,50,118,194,No-Festival,,,,,,0,0,9,2,0,0,,,0,1,MUHARRAM.ASHURA-post,ISLAM-post,week-36
+247,247,03/09/2020,33,62,147,242,No-Festival,,,,,,0,0,9,2,0,0,,,0,1,MUHARRAM.ASHURA-post,ISLAM-post,week-36
+248,248,04/09/2020,37,82,123,242,No-Festival,,,,,,0,0,9,2,0,0,,,0,1,MUHARRAM.ASHURA-post,ISLAM-post,week-36
+249,249,05/09/2020,35,56,129,220,No-Festival,,,,,,0,0,9,2,0,0,,,0,1,MUHARRAM.ASHURA-post,ISLAM-post,week-36
+250,250,06/09/2020,30,38,167,235,No-Festival,,,,,,0,0,9,2,0,0,,,0,1,MUHARRAM.ASHURA-post,ISLAM-post,week-36
+251,251,07/09/2020,40,110,116,266,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-36
+252,252,08/09/2020,24,138,153,315,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-36
+253,253,09/09/2020,40,131,121,292,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-37
+254,254,10/09/2020,44,114,194,352,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-37
+255,255,11/09/2020,56,132,136,324,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-37
+256,256,12/09/2020,46,77,112,235,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-37
+257,257,13/09/2020,51,85,158,294,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-37
+258,258,14/09/2020,38,63,105,206,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-37
+259,259,15/09/2020,51,154,185,390,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-37
+260,260,16/09/2020,84,80,122,286,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-38
+261,261,17/09/2020,40,35,136,211,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-38
+262,262,18/09/2020,39,69,114,222,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-38
+263,263,19/09/2020,28,124,136,288,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-38
+264,264,20/09/2020,30,74,118,222,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-38
+265,265,21/09/2020,27,74,110,211,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-38
+266,266,22/09/2020,55,137,202,394,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-38
+267,267,23/09/2020,53,72,99,224,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-39
+268,268,24/09/2020,33,53,139,225,No-Festival,,,,,,0,0,9,2,0,0,,,0,0,No-Festival,,week-39
+269,269,25/09/2020,48,226,189,463,No-Festival,,,,,,0,0,9,2,0,0,,,1,0,GANDHI JAYANTI-pre,GOVT-pre,week-39
+270,270,26/09/2020,42,85,149,276,No-Festival,,,,,,0,0,9,2,0,0,,,1,0,GANDHI JAYANTI-pre,GOVT-pre,week-39
+271,271,27/09/2020,40,142,95,277,No-Festival,,,,,,0,0,9,2,0,0,,,1,0,GANDHI JAYANTI-pre,GOVT-pre,week-39
+272,272,28/09/2020,41,120,148,309,No-Festival,,,,,,0,0,9,2,0,0,,,1,0,GANDHI JAYANTI-pre,GOVT-pre,week-39
+273,273,29/09/2020,58,265,279,602,No-Festival,,,,,,0,0,9,2,0,0,,,1,0,GANDHI JAYANTI-pre,GOVT-pre,week-39
+274,274,30/09/2020,60,152,120,332,No-Festival,,,,,,0,0,9,2,0,0,,,1,0,GANDHI JAYANTI-pre,GOVT-pre,week-40
+275,275,01/10/2020,68,97,126,291,No-Festival,,,,,,0,0,10,3,0,0,,,1,0,GANDHI JAYANTI-pre,GOVT-pre,week-40
+276,276,02/10/2020,57,104,80,241,GANDHI JAYANTI,GOVT,INDIA,,,,0,0,10,3,0,0,,,0,0,GANDHI JAYANTI,GOVT,week-40
+277,277,03/10/2020,109,126,175,410,No-Festival,,,,,,0,0,10,3,0,0,,,0,1,GANDHI JAYANTI-post,GOVT-post,week-40
+278,278,04/10/2020,50,120,154,324,No-Festival,,,,,,0,0,10,3,0,0,,,0,1,GANDHI JAYANTI-post,GOVT-post,week-40
+279,279,05/10/2020,46,97,158,301,No-Festival,,,,,,0,0,10,3,0,0,,,0,1,GANDHI JAYANTI-post,GOVT-post,week-40
+280,280,06/10/2020,114,252,145,511,No-Festival,,,,,,0,0,10,3,0,0,,,0,1,GANDHI JAYANTI-post,GOVT-post,week-40
+281,281,07/10/2020,67,148,182,397,No-Festival,,,,,,0,0,10,3,0,0,,,0,1,GANDHI JAYANTI-post,GOVT-post,week-41
+282,282,08/10/2020,40,96,124,260,No-Festival,,,,,,0,0,10,3,0,0,,,0,1,GANDHI JAYANTI-post,GOVT-post,week-41
+283,283,09/10/2020,43,60,102,205,No-Festival,,,,,,0,0,10,3,0,0,,,0,1,GANDHI JAYANTI-post,GOVT-post,week-41
+284,284,10/10/2020,41,70,100,211,No-Festival,,,,,,0,0,10,3,0,0,,,0,0,No-Festival,,week-41
+285,285,11/10/2020,44,68,100,212,No-Festival,,,,,,0,0,10,3,0,0,,,0,0,No-Festival,,week-41
+286,286,12/10/2020,50,127,166,343,No-Festival,,,,,,0,0,10,3,0,0,,,0,0,No-Festival,,week-41
+287,287,13/10/2020,35,91,106,232,No-Festival,,,,,,0,0,10,3,0,0,,,0,0,No-Festival,,week-41
+288,288,14/10/2020,34,109,89,232,No-Festival,,,,,,0,0,10,3,0,0,,,0,0,No-Festival,,week-42
+289,289,15/10/2020,39,235,113,387,No-Festival,,,,,,0,0,10,3,1,0,Dussherra Week-pre-,TV & Newspaper-pre-,1,0,MAHA SAPTAMI-pre,HINDUISIM-pre,week-42
+290,290,16/10/2020,51,81,106,238,No-Festival,,,,,,0,0,10,3,1,0,Dussherra Week-pre-,TV & Newspaper-pre-,1,0,MAHA ASHTAMI-pre,HINDUISIM-pre,week-42
+291,291,17/10/2020,32,130,157,319,No-Festival,,,,,,0,0,10,3,1,0,Dussherra Week-pre-,TV & Newspaper-pre-,1,0,MAHA NAVAMI-pre,HINDUISIM-pre,week-42
+292,292,18/10/2020,27,111,117,255,No-Festival,,,,,,0,0,10,3,1,0,Dussherra Week-pre-,TV & Newspaper-pre-,1,0,DUSSEHRA-pre,HINDUISIM-pre,week-42
+293,293,19/10/2020,27,78,72,177,No-Festival,,,,,,0,0,10,3,1,0,Dussherra Week-pre-,TV & Newspaper-pre-,1,0,DUSSEHRA-pre,HINDUISIM-pre,week-42
+294,294,20/10/2020,46,46,92,184,No-Festival,,,24/10/2020,TV & Newspaper,Dussherra Week,4,1,10,3,0,0,Dussherra Week,TV & Newspaper,1,0,DUSSEHRA-pre,HINDUISIM-pre,week-42
+295,295,21/10/2020,27,64,95,186,No-Festival,,,,TV & Newspaper,Dussherra Week,4,1,10,3,0,0,Dussherra Week,TV & Newspaper,1,0,DUSSEHRA-pre,HINDUISIM-pre,week-43
+296,296,22/10/2020,54,85,157,296,MAHA SAPTAMI,HINDUISIM,INDIA,,TV & Newspaper,Dussherra Week,4,1,10,3,0,0,Dussherra Week,TV & Newspaper,1,0,MILAD-pre,ISLAM-pre,week-43
+297,297,23/10/2020,52,111,112,275,MAHA ASHTAMI,HINDUISIM,INDIA,,TV & Newspaper,Dussherra Week,4,1,10,3,0,0,Dussherra Week,TV & Newspaper,1,1,MAHA SAPTAMI-post,HINDUISIM-post,week-43
+298,298,24/10/2020,57,138,101,296,MAHA NAVAMI,HINDUISIM,INDIA,,TV & Newspaper,Dussherra Week,4,1,10,3,0,0,Dussherra Week,TV & Newspaper,1,1,MAHA ASHTAMI-post,HINDUISIM-post,week-43
+299,299,25/10/2020,71,88,124,283,DUSSEHRA,HINDUISIM,INDIA,,,,0,0,10,3,0,1,Dussherra Week-post,TV & Newspaper-post,1,1,MAHA NAVAMI-post,HINDUISIM-post,week-43
+300,300,26/10/2020,100,112,97,309,No-Festival,,,,,,0,0,10,3,0,1,Dussherra Week-post,TV & Newspaper-post,1,1,DUSSEHRA-post,HINDUISIM-post,week-43
+301,301,27/10/2020,36,47,107,190,No-Festival,,,,,,0,0,10,3,0,1,Dussherra Week-post,TV & Newspaper-post,1,1,DUSSEHRA-post,HINDUISIM-post,week-43
+302,302,28/10/2020,28,55,124,207,No-Festival,,,,,,0,0,10,3,0,1,Dussherra Week-post,TV & Newspaper-post,1,1,DUSSEHRA-post,HINDUISIM-post,week-44
+303,303,29/10/2020,15,15,75,105,MILAD,ISLAM,INDIA,,,,0,0,10,3,0,1,Dussherra Week-post,TV & Newspaper-post,1,1,DUSSEHRA-post,HINDUISIM-post,week-44
+304,304,30/10/2020,41,112,159,312,No-Festival,,,,,,0,0,10,3,0,0,,,1,1,MILAD-post,ISLAM-post,week-44
+305,305,31/10/2020,59,175,293,527,MAHARISHI VALMIKI JAYANTI,COMMON,INDIA,,,,0,0,10,3,0,0,,,1,1,MILAD-post,ISLAM-post,week-44
+306,306,01/11/2020,25,47,123,195,No-Festival,,,,,,0,0,11,3,0,0,,,1,1,MAHARISHI VALMIKI JAYANTI-post,COMMON-post,week-44
+307,307,02/11/2020,40,64,151,255,No-Festival,,,,,,0,0,11,3,0,0,,,1,1,MAHARISHI VALMIKI JAYANTI-post,COMMON-post,week-44
+308,308,03/11/2020,35,83,119,237,No-Festival,,,,,,0,0,11,3,0,0,,,1,1,MAHARISHI VALMIKI JAYANTI-post,COMMON-post,week-44
+309,309,04/11/2020,37,62,125,224,KARAKA CHATURTHI (KARVA CHAUTH),HINDUISIM,INDIA,,,,0,0,11,3,0,0,,,0,1,MAHARISHI VALMIKI JAYANTI-post,COMMON-post,week-45
+310,310,05/11/2020,29,35,168,232,No-Festival,,,,,,0,0,11,3,1,0,Diwali Celebrations-pre-,TV & Newspaper-pre-,0,1,KARAKA CHATURTHI (KARVA CHAUTH)-post,HINDUISIM-post,week-45
+311,311,06/11/2020,37,101,115,253,No-Festival,,,,,,0,0,11,3,1,0,Diwali Celebrations-pre-,TV & Newspaper-pre-,0,1,KARAKA CHATURTHI (KARVA CHAUTH)-post,HINDUISIM-post,week-45
+312,312,07/11/2020,30,147,159,336,No-Festival,,,,,,0,0,11,3,1,0,Diwali Celebrations-pre-,TV & Newspaper-pre-,0,1,KARAKA CHATURTHI (KARVA CHAUTH)-post,HINDUISIM-post,week-45
+313,313,08/11/2020,42,133,125,300,No-Festival,,,,,,0,0,11,3,1,0,Diwali Celebrations-pre-,TV & Newspaper-pre-,0,1,KARAKA CHATURTHI (KARVA CHAUTH)-post,HINDUISIM-post,week-45
+314,314,09/11/2020,42,120,195,357,No-Festival,,,,,,0,0,11,3,1,0,Diwali Celebrations-pre-,TV & Newspaper-pre-,1,1,KARAKA CHATURTHI (KARVA CHAUTH)-post,HINDUISIM-post,week-45
+315,315,10/11/2020,47,136,140,323,No-Festival,,,14/11/2020,TV & Newspaper,Diwali Celebrations,4,1,11,3,0,0,Diwali Celebrations,TV & Newspaper,1,1,KARAKA CHATURTHI (KARVA CHAUTH)-post,HINDUISIM-post,week-45
+316,316,11/11/2020,52,76,112,240,No-Festival,,,,TV & Newspaper,Diwali Celebrations,4,1,11,3,0,0,Diwali Celebrations,TV & Newspaper,1,1,KARAKA CHATURTHI (KARVA CHAUTH)-post,HINDUISIM-post,week-46
+317,317,12/11/2020,51,88,155,294,No-Festival,,,,TV & Newspaper,Diwali Celebrations,4,1,11,3,0,0,Diwali Celebrations,TV & Newspaper,1,0,BHAI DUJ-pre,HINDUISIM-pre,week-46
+318,318,13/11/2020,47,61,113,221,No-Festival,,,,TV & Newspaper,Diwali Celebrations,4,1,11,3,0,0,Diwali Celebrations,TV & Newspaper,1,0,BHAI DUJ-pre,HINDUISIM-pre,week-46
+319,319,14/11/2020,56,157,180,393,No-Festival,,,,TV & Newspaper,Diwali Celebrations,4,1,11,3,0,0,Diwali Celebrations,TV & Newspaper,1,0,BHAI DUJ-pre,HINDUISIM-pre,week-46
+320,320,15/11/2020,88,72,126,286,No-Festival,,,,,,0,0,11,3,0,1,Diwali Celebrations-post,TV & Newspaper-post,1,0,BHAI DUJ-pre,HINDUISIM-pre,week-46
+321,321,16/11/2020,36,41,136,213,BHAI DUJ,HINDUISIM,INDIA,,,,0,0,11,3,0,1,Diwali Celebrations-post,TV & Newspaper-post,0,0,BHAI DUJ,HINDUISIM,week-46
+322,322,17/11/2020,40,68,114,222,No-Festival,,,,,,0,0,11,3,0,1,Diwali Celebrations-post,TV & Newspaper-post,1,1,BHAI DUJ-post,HINDUISIM-post,week-46
+323,323,18/11/2020,22,126,133,281,No-Festival,,,,,,0,0,11,3,0,1,Diwali Celebrations-post,TV & Newspaper-post,1,1,BHAI DUJ-post,HINDUISIM-post,week-47
+324,324,19/11/2020,27,76,117,220,No-Festival,,,,,,0,0,11,3,0,1,Diwali Celebrations-post,TV & Newspaper-post,1,1,BHAI DUJ-post,HINDUISIM-post,week-47
+325,325,20/11/2020,30,74,109,213,No-Festival,,,,,,0,0,11,3,0,0,,,1,1,BHAI DUJ-post,HINDUISIM-post,week-47
+326,326,21/11/2020,49,129,207,385,No-Festival,,,,,,0,0,11,3,0,0,,,1,1,BHAI DUJ-post,HINDUISIM-post,week-47
+327,327,22/11/2020,46,70,96,212,No-Festival,,,,,,0,0,11,3,0,0,,,1,1,BHAI DUJ-post,HINDUISIM-post,week-47
+328,328,23/11/2020,36,55,141,232,No-Festival,,,,,,0,0,11,3,0,0,,,1,1,BHAI DUJ-post,HINDUISIM-post,week-47
+329,329,24/11/2020,53,227,192,472,GURU TEG BAHADUR'S MARTYRDOM DAY,CHRISTIAN,INDIA,,,,0,0,11,3,0,0,,,0,0,GURU TEG BAHADUR'S MARTYRDOM DAY,CHRISTIAN,week-47
+330,330,25/11/2020,37,83,155,275,No-Festival,,,,,,0,0,11,3,0,0,,,0,1,GURU TEG BAHADUR'S MARTYRDOM DAY-post,CHRISTIAN-post,week-48
+331,331,26/11/2020,39,144,96,279,No-Festival,,,,,,0,0,11,3,0,0,,,0,1,GURU TEG BAHADUR'S MARTYRDOM DAY-post,CHRISTIAN-post,week-48
+332,332,27/11/2020,42,119,152,313,No-Festival,,,,,,0,0,11,3,0,0,,,0,1,GURU TEG BAHADUR'S MARTYRDOM DAY-post,CHRISTIAN-post,week-48
+333,333,28/11/2020,59,266,273,598,No-Festival,,,,,,0,0,11,3,0,0,,,0,1,GURU TEG BAHADUR'S MARTYRDOM DAY-post,CHRISTIAN-post,week-48
+334,334,29/11/2020,67,147,115,329,No-Festival,,,,,,0,0,11,3,0,0,,,0,1,GURU TEG BAHADUR'S MARTYRDOM DAY-post,CHRISTIAN-post,week-48
+335,335,30/11/2020,64,95,134,293,No-Festival,,,,,,0,0,11,3,0,0,,,0,1,GURU TEG BAHADUR'S MARTYRDOM DAY-post,CHRISTIAN-post,week-48
+336,336,01/12/2020,56,108,73,237,No-Festival,,,,,,0,0,12,3,0,0,,,0,1,GURU TEG BAHADUR'S MARTYRDOM DAY-post,CHRISTIAN-post,week-48
+337,337,02/12/2020,108,123,169,400,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-49
+338,338,03/12/2020,46,118,155,319,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-49
+339,339,04/12/2020,39,97,151,287,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-49
+340,340,05/12/2020,113,252,151,516,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-49
+341,341,06/12/2020,73,149,175,397,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-49
+342,342,07/12/2020,44,95,121,260,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-49
+343,343,08/12/2020,43,68,103,214,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-49
+344,344,09/12/2020,40,68,105,213,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-50
+345,345,10/12/2020,46,64,106,216,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-50
+346,346,11/12/2020,53,123,162,338,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-50
+347,347,12/12/2020,40,90,110,240,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-50
+348,348,13/12/2020,29,106,85,220,No-Festival,,,,,,0,0,12,3,0,0,,,0,0,No-Festival,,week-50
+349,349,14/12/2020,39,232,119,390,No-Festival,,,,,,0,0,12,3,1,0,Christmas Celebration-pre-,TV & Newspaper-pre-,0,0,No-Festival,,week-50
+350,350,15/12/2020,47,84,105,236,No-Festival,,,,,,0,0,12,3,1,0,Christmas Celebration-pre-,TV & Newspaper-pre-,0,0,No-Festival,,week-50
+351,351,16/12/2020,32,126,157,315,No-Festival,,,,,,0,0,12,3,1,0,Christmas Celebration-pre-,TV & Newspaper-pre-,0,0,No-Festival,,week-51
+352,352,17/12/2020,27,114,109,250,No-Festival,,,,,,0,0,12,3,1,0,Christmas Celebration-pre-,TV & Newspaper-pre-,1,0,CHRISTMAS EVE-pre,CHRISTIAN-pre,week-51
+353,353,18/12/2020,28,73,65,166,No-Festival,,,,,,0,0,12,3,1,0,Christmas Celebration-pre-,TV & Newspaper-pre-,1,0,CHRISTMAS DAY-pre,CHRISTIAN-pre,week-51
+354,354,19/12/2020,50,46,88,184,No-Festival,,,,,,0,0,12,3,1,0,Christmas Celebration-pre-,TV & Newspaper-pre-,1,0,CHRISTMAS DAY-pre,CHRISTIAN-pre,week-51
+355,355,20/12/2020,31,62,95,188,No-Festival,,,25/12/2020,TV & Newspaper,Christmas Celebration,5,1,12,3,0,0,Christmas Celebration,TV & Newspaper,1,0,CHRISTMAS DAY-pre,CHRISTIAN-pre,week-51
+356,356,21/12/2020,54,84,163,301,No-Festival,,,,TV & Newspaper,Christmas Celebration,5,1,12,3,0,0,Christmas Celebration,TV & Newspaper,1,0,CHRISTMAS DAY-pre,CHRISTIAN-pre,week-51
+357,357,22/12/2020,45,108,109,262,No-Festival,,,,TV & Newspaper,Christmas Celebration,5,1,12,3,0,0,Christmas Celebration,TV & Newspaper,1,0,CHRISTMAS DAY-pre,CHRISTIAN-pre,week-51
+358,358,23/12/2020,56,136,97,289,No-Festival,,,,TV & Newspaper,Christmas Celebration,5,1,12,3,0,0,Christmas Celebration,TV & Newspaper,1,0,CHRISTMAS DAY-pre,CHRISTIAN-pre,week-52
+359,359,24/12/2020,74,89,126,289,CHRISTMAS EVE,CHRISTIAN,INDIA,,TV & Newspaper,Christmas Celebration,5,1,12,3,0,0,Christmas Celebration,TV & Newspaper,1,0,NEW YEAR'S EVE-pre,CHRISTIAN-pre,week-52
+360,360,25/12/2020,106,117,94,317,CHRISTMAS DAY,CHRISTIAN,INDIA,,TV & Newspaper,Christmas Celebration,5,1,12,3,0,0,Christmas Celebration,TV & Newspaper,1,1,CHRISTMAS EVE-post,CHRISTIAN-post,week-52
+361,361,26/12/2020,34,50,109,193,No-Festival,,,,,,0,0,12,3,0,1,Christmas Celebration-post,TV & Newspaper-post,1,1,CHRISTMAS DAY-post,CHRISTIAN-post,week-52
+362,362,27/12/2020,29,53,123,205,No-Festival,,,,,,0,0,12,3,0,1,Christmas Celebration-post,TV & Newspaper-post,1,1,CHRISTMAS DAY-post,CHRISTIAN-post,week-52
+363,363,28/12/2020,13,20,81,114,No-Festival,,,,,,0,0,12,3,0,1,Christmas Celebration-post,TV & Newspaper-post,1,1,CHRISTMAS DAY-post,CHRISTIAN-post,week-52
+364,364,29/12/2020,41,103,159,303,No-Festival,,,,,,0,0,12,3,0,1,Christmas Celebration-post,TV & Newspaper-post,1,1,CHRISTMAS DAY-post,CHRISTIAN-post,week-52
+365,365,30/12/2020,54,175,292,521,No-Festival,,,,,,0,0,12,3,0,1,Christmas Celebration-post,TV & Newspaper-post,1,1,CHRISTMAS DAY-post,CHRISTIAN-post,week-53
+366,366,31/12/2020,39,115,190,344,NEW YEAR'S EVE,CHRISTIAN,INDIA,,,,0,0,12,3,0,1,Christmas Celebration-post,TV & Newspaper-post,0,1,CHRISTMAS DAY-post,CHRISTIAN-post,week-53
